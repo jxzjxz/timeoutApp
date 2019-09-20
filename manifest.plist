@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.31.2.162/TestProject.ipa</string>
+					<string>http://10.2.8.98/sqkb.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.timeout.wn</string>
+				<string>com.jzyd.YueDanBa</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
