@@ -5,29 +5,29 @@
 	<key>items</key>
 	<array>
 		<dict>
-			<key>url</key>
-			<string>https://raw.githubusercontent.com/jxzjxz/timeoutApp/master/1024.png</string>
-			<key>needs-shine</key>
-			<true/>
-			<key>kind</key>
-			<string>full-size-image</string>
-		</dict>
-		<dict>
-			<key>url</key>
-			<string>https://raw.githubusercontent.com/jxzjxz/timeoutApp/master/58.png</string>
-			<key>needs-shine</key>
-			<true/>
-			<key>kind</key>
-			<string>display-image</string>
-		</dict>
-		<dict>
 			<key>assets</key>
 			<array>
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.2.8.98/sqkb.ipa</string>
+					<string>http://10.2.8.98/install/sqkb_chunyu.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/jxzjxz/timeoutApp/master/58.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/jxzjxz/timeoutApp/master/1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Apple</string>
 				<key>title</key>
-				<string>timeout App下载中...</string>
+				<string>省钱快报</string>
 			</dict>
 		</dict>
 	</array>
